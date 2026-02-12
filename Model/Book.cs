@@ -1,4 +1,4 @@
-﻿namespace KH_REST_Api.Model;
+﻿namespace Model;
 
 public class Book
 {
