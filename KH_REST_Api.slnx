@@ -1,2 +1,4 @@
 <Solution>
+  <Project Path="Model/Model.csproj" />
+  <Project Path="ReadingListApi/ReadingListApi.csproj" />
 </Solution>
